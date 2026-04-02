@@ -1,5 +1,6 @@
 # Please note that this is a Claude made fork of https://github.com/Jipok/website-to-apk, my lazy ass didnt make this
 
+
 # Website-to-APK
 
 A simple tool to convert any website into an Android APK without requiring Android Studio or Java programming knowledge. The app acts as a WebView wrapper around your chosen website.

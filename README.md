@@ -1,6 +1,4 @@
-# Please note that this is a Claude made fork
-# of https://github.com/Jipok/website-to-apk
-# my lazy ass didnt make this
+# Please note that this is a Claude made fork of https://github.com/Jipok/website-to-apk, my lazy ass didnt make this
 
 # Website-to-APK
 
